@@ -13,10 +13,11 @@ djangorestframework-jwt==1.11.0
 music-tag==0.4.3
 Pillow==9.4.0
 pycryptodomex==3.17
-Mako==1.0.6
+Mako==1.1.6
 django-mysql==3.8.1
 redis==3.2.0
-mysqlclient==1.4.4
+#mysqlclient==1.4.4
+mysqlclient==2.0.3
 sqlalchemy==1.4.23
 PyExecJS==1.5.1
 tqdm==4.65.0
