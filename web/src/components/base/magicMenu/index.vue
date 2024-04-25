@@ -26,7 +26,7 @@
         },
         data() {
             return {
-                title: '音乐标签Web版',
+                title: '音乐标签Web版-Wing',
                 headerTitle: '',
                 imgSrc: '',
             }
